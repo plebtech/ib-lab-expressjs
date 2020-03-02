@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/plebtech/ib-lab-expressjs/issues"
   },
-  "homepage": "https://github.com/plebtech/ib-lab-expressjs#readme"
+  "homepage": "https://github.com/plebtech/ib-lab-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
