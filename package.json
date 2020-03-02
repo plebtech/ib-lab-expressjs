@@ -1,0 +1,23 @@
+{
+  "name": "lab-expressjs",
+  "version": "0.5.0",
+  "description": "innovate birmingham lab using expressjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plebtech/ib-lab-expressjs.git"
+  },
+  "keywords": [
+    "expressjs",
+    "javascript"
+  ],
+  "author": "plebtech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plebtech/ib-lab-expressjs/issues"
+  },
+  "homepage": "https://github.com/plebtech/ib-lab-expressjs#readme"
+}
